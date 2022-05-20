@@ -3,8 +3,8 @@
    "app_newPackageName":"https://play.google.com/store/apps/details?id=starutsav.freestarutsavserialsapps15.freestarutsavserialsapp",
    "app_AppOpenAdStatus":"0",
    "qureka":"https://282.win.predchamp.com",
-   "qureka_splash":"1",
-   "qureka_status":"1",
+   "qureka_splash":"0",
+   "qureka_status":"0",
    "more_app":"https://raw.githubusercontent.com/Cipher-Infotech/mockjson/master/db.json",
    "admob_showAdStatus":"0",
    "AppID":"ca-app-pub-5517092987757413~8240781391",
@@ -12,11 +12,11 @@
    "Admob_Interstitial":"ca-app-pub-3940256099942544/1031173712",
    "Admob_Native":"ca-app-pub-3940256099942544/2247296110",
    "AppOpen":"ca-app-pub-3940256099942544/3419835294",
-   "topon_showStatus":"1",
-   "topon_appid":"a625fc84a6134c",
+   "topon_showStatus":"0",
+   "topon_appid":"a62553ca416f07",
    "topon_appkey":"4be6809928505aaf1eafe46970418e21",
-   "topon_banner":"b625fc86bd9384",
-   "topon_inter1":"b625fc86caa337",
-   "topon_inter2":"b625fc86caa337",
-   "topon_native":"b625fc86c48721"
+   "topon_banner":"b62553cb890204",
+   "topon_inter1":"b62553cb950293",
+   "topon_inter2":"b62553cb950293",
+   "topon_native":"b62553cb8e9af0"
 }
